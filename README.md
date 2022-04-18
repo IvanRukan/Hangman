@@ -1,1 +1,2 @@
 # Hangman
+Simple Hangman game.
